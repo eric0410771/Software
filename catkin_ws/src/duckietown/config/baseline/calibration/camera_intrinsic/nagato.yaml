@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [328.0649424830903, 0.0, 307.1472407898882, 0.0, 331.1542885664186, 236.92910738975476,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: nagato/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.2957975238822332, 0.07167195017518985, -0.0008706488899000614, -0.00017280423241871652,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [237.43008422851562, 0.0, 307.02828569828125, 0.0, 0.0, 267.1578063964844,
+    233.69944890771148, 0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
